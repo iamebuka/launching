@@ -1,0 +1,32 @@
+{
+  "name": "launching",
+  "version": "1.0.0",
+  "description": "A repo for when you plan to launch a product saying \"coming soon\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamebuka/launching.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "express",
+    "launching",
+    "product",
+    "coming\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\"\u001b[C\u001b[Dcoming",
+    "soon\""
+  ],
+  "author": "Ebuka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamebuka/launching/issues"
+  },
+  "homepage": "https://github.com/iamebuka/launching#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
