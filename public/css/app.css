@@ -1,0 +1,13 @@
+body {
+    background: url("../assets/studentdevjobs.svg");
+    background-repeat: no-repeat;
+    background-position: center 0px;
+    background-size: cover;
+    background-color: #1BB1B2;
+}
+
+@media(min-width: 480px) {
+ body {
+    background-size: initial;
+ }
+}
